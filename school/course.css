@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+div{
+    background-color: aquamarine;
+    width: 300px;
+    gap: 30px;
+    border: 1px solid black;
+    margin-left: 20px;
+    margin-top: 50px;
+    height: 300px;
+    border-radius: 22px;
+
+}
+
+h1{ 
+    background-color: aliceblue;
+    color:aqua;
+    margin-top: 20px;
+    padding-left: 150px;
+    padding-right: 150px;
+}

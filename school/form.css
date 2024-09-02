@@ -1,0 +1,75 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+.container{
+    margin: 0;
+    padding: 0;
+}
+form{
+    width: 400px;
+    height: 500px;
+    box-shadow: 13px 8px 20px rgb(0,0,0,0.7);
+    margin-top: 20%;
+}
+h1{
+    margin-left: 40%;
+}
+.inputname{
+    margin-left: 18px;
+}
+.inputname label{
+    margin-bottom: 10px;
+    
+}
+.inputname input{
+    width: 80%;
+    padding: 15px;
+    margin-top: 10px;
+    margin-bottom: 18px;
+    border-radius: 10px;
+    border: 0.3px solid grey;
+}
+label{
+    font-size: 22px;
+   margin-right: 68px;
+    
+}
+a{
+    font-size: 18px;
+    
+}
+.btn{
+    padding: 16px;
+    padding-left: 45px;
+    padding-right: 45px;
+    border: none;
+    background-color: rgba(23, 23, 206, 0.826);
+    border-radius: 18px;
+    color: white;
+    font-weight: 600;
+    margin-left: 30%;
+    margin-bottom: 8px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+.btn2{
+    padding: 16px;
+    padding-left: 45px;
+    padding-right: 45px;
+    border: none;
+    background-color: rgba(211, 144, 20, 0.826);
+    border-radius: 18px;
+    color: white;
+    font-weight: 600;
+    margin-left: 25%;
+    margin-bottom: 8px;
+    margin-top: 90px;
+    cursor: pointer;
+}
+span{
+    margin-left: 68px;
+}
+
